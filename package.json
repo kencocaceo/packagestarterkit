@@ -20,7 +20,8 @@
     "url": "git+https://github.com/kencocaceo/packagestarterkit.git"
   },
   "bin": {
-    "tiny-command": "bin/command.js"
+    "package-starter-kit-command": "bin/command.js",
+    "package-starter-kit-readme": "bin/readme.js"
   },
   "keywords": [
     "Npm"
